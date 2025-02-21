@@ -1,0 +1,7 @@
+[Flatpak Repo]
+Title=test repo
+Url=https://raw.githubusercontent.com/thesupersonic16/flat-repo-test/refs/heads/main/repo/
+Homepage=https://github.com/thesupersonic16/flat-repo-test
+Comment=A
+Description=I
+Icon=https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg
